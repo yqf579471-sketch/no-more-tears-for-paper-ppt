@@ -29,8 +29,6 @@
 | 14 | 三句短句总结本文，3倍行距 |
 | 15 | Thanks everyone！ |
 
-![15页模板预览](assets/template-preview.png)
-
 ## 安装
 
 下载本仓库的完整文件，不要只复制SKILL.md，因为模板和使用说明也是技能的一部分。
@@ -53,15 +51,14 @@
 
 也可仅请求逐页提纲或按页讲稿。请注明汇报日期、听众和特殊要求；当次明确要求优先于默认配置。
 
-默认汇报人为“严琴方”，其他使用者可在请求中指定自己的姓名。原模板中的瓢虫背景、结论和备注只作示例，制作新汇报时必须替换。
+请在请求中指定汇报人姓名；未指定时使用“汇报人”占位。模板只含版式和占位内容，制作新汇报时应填入经核验的论文信息。
 
 ## 文件
 
 | 文件 | 用途 |
 |---|---|
 | [SKILL.md](SKILL.md) | 触发条件、完整流程、15页内容规范和交付检查 |
-| [assets/11.pptx](assets/11.pptx) | 固定源模板，原样保留 |
-| [assets/template-preview.png](assets/template-preview.png) | 全15页模板预览 |
+| [assets/11.pptx](assets/11.pptx) | 已清理个人信息与旧讲稿的固定模板 |
 | [references/template-guide.md](references/template-guide.md) | 各页映射、示例替换和模板复用规则 |
 | agents/openai.yaml | 技能显示名称与调用提示 |
 

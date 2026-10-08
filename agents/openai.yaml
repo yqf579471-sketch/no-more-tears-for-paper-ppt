@@ -1,7 +1,7 @@
 interface:
   display_name: 文献汇报（10分钟版）
   short_description: 基于固定PPT模板制作十五页中文文献汇报，核验图源与证据，控制十分钟讲述节奏。
-  default_prompt: 使用 $literature-report-10min，根据我提供的论文制作严琴方的10分钟文献汇报。
+  default_prompt: 使用 $literature-report-10min，根据我提供的论文制作10分钟文献汇报。
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
